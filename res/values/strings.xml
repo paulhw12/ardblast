@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">ArdBlast</string>
+    <string name="menu_text">Welcome to Wicksta Remote</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_remote">RemoteActivity</string>
+
+</resources>
